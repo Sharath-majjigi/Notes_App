@@ -1,4 +1,4 @@
-# Take_Notes
+# Take_Your_Notes_Here
 A Notes taking app which Displays the notes youv'e added in live on a RecyclerView.
 
 |    1    |     2      |
